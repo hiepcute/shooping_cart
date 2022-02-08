@@ -1,0 +1,375 @@
+2022-02-07 22:34:16,651 | INFO | Logger start.
+2022-02-07 23:26:25,665 | INFO | Logger start.
+2022-02-07 23:45:11,796 | INFO | Logger start.
+2022-02-07 23:45:30,954 | INFO | Logger start.
+2022-02-07 23:46:43,780 | INFO | Logger start.
+2022-02-07 23:46:48,004 | INFO | Logger start.
+2022-02-07 23:49:35,809 | INFO | Logger start.
+2022-02-07 23:49:49,799 | INFO | Logger start.
+2022-02-07 23:49:59,804 | INFO | Logger start.
+2022-02-07 23:50:14,581 | INFO | Logger start.
+2022-02-07 23:50:15,049 | INFO | Logger start.
+2022-02-08 00:01:37,438 | INFO | app start
+2022-02-08 00:01:37,513 | INFO | app start
+2022-02-08 00:01:40,090 | INFO | Logger start.
+2022-02-08 00:01:40,526 | INFO | Logger start.
+2022-02-08 00:08:46,240 | INFO | app start
+2022-02-08 00:08:46,316 | INFO | app start
+2022-02-08 08:55:43,384 | INFO | Logger start.
+2022-02-08 08:55:43,935 | INFO | Logger start.
+2022-02-08 09:22:54,911 | INFO | Logger start.
+2022-02-08 09:22:54,977 | INFO | Table carts created.
+2022-02-08 09:24:18,842 | INFO | Logger start.
+2022-02-08 09:24:18,855 | INFO | Table users created.
+2022-02-08 09:26:39,107 | INFO | Logger start.
+2022-02-08 09:26:39,126 | INFO | Table carts created.
+2022-02-08 09:26:39,328 | INFO | Logger start.
+2022-02-08 09:28:34,749 | INFO | Logger start.
+2022-02-08 09:28:34,764 | INFO | Table products created.
+2022-02-08 09:28:40,567 | INFO | Logger start.
+2022-02-08 09:28:40,581 | INFO | Table users created.
+2022-02-08 09:28:52,458 | INFO | Logger start.
+2022-02-08 09:28:52,480 | INFO | Table cart items created.
+2022-02-08 09:29:03,426 | INFO | Logger start.
+2022-02-08 09:29:03,443 | INFO | Table carts created.
+2022-02-08 09:35:45,081 | INFO | Logger start.
+2022-02-08 09:39:51,560 | INFO | Logger start.
+2022-02-08 09:40:04,473 | INFO | Logger start.
+2022-02-08 09:40:41,370 | INFO | Logger start.
+2022-02-08 09:40:41,827 | INFO | New user added
+2022-02-08 09:40:41,832 | INFO | New cart added
+2022-02-08 09:40:41,894 | INFO | Logger start.
+2022-02-08 09:40:57,338 | INFO | Logger start.
+2022-02-08 09:40:57,619 | INFO | Logger start.
+2022-02-08 09:40:57,765 | INFO | New user added
+2022-02-08 09:40:57,770 | INFO | New cart added
+2022-02-08 09:40:57,772 | INFO | New product added
+2022-02-08 09:40:57,979 | INFO | New user added
+2022-02-08 09:40:57,982 | INFO | New cart added
+2022-02-08 09:40:57,983 | INFO | New product added
+2022-02-08 09:40:58,190 | INFO | New user added
+2022-02-08 09:40:58,192 | INFO | New cart added
+2022-02-08 09:40:58,194 | INFO | New product added
+2022-02-08 09:40:58,406 | INFO | New user added
+2022-02-08 09:40:58,408 | INFO | New cart added
+2022-02-08 09:40:58,409 | INFO | New product added
+2022-02-08 09:40:58,618 | INFO | New user added
+2022-02-08 09:40:58,620 | INFO | New cart added
+2022-02-08 09:40:58,621 | INFO | New product added
+2022-02-08 09:40:58,829 | INFO | New user added
+2022-02-08 09:40:58,832 | INFO | New cart added
+2022-02-08 09:40:58,833 | INFO | New product added
+2022-02-08 09:40:59,044 | INFO | New user added
+2022-02-08 09:40:59,046 | INFO | New cart added
+2022-02-08 09:40:59,048 | INFO | New product added
+2022-02-08 09:40:59,258 | INFO | New user added
+2022-02-08 09:40:59,260 | INFO | New cart added
+2022-02-08 09:40:59,261 | INFO | New product added
+2022-02-08 09:40:59,472 | INFO | New user added
+2022-02-08 09:40:59,474 | INFO | New cart added
+2022-02-08 09:40:59,475 | INFO | New product added
+2022-02-08 09:40:59,683 | INFO | New user added
+2022-02-08 09:40:59,685 | INFO | New cart added
+2022-02-08 09:40:59,687 | INFO | New product added
+2022-02-08 09:40:59,900 | INFO | New user added
+2022-02-08 09:40:59,902 | INFO | New cart added
+2022-02-08 09:40:59,904 | INFO | New product added
+2022-02-08 09:41:00,113 | INFO | New user added
+2022-02-08 09:41:00,115 | INFO | New cart added
+2022-02-08 09:41:00,117 | INFO | New product added
+2022-02-08 09:41:00,329 | INFO | New user added
+2022-02-08 09:41:00,330 | INFO | New cart added
+2022-02-08 09:41:00,332 | INFO | New product added
+2022-02-08 09:41:00,540 | INFO | New user added
+2022-02-08 09:41:00,542 | INFO | New cart added
+2022-02-08 09:41:00,543 | INFO | New product added
+2022-02-08 09:41:00,753 | INFO | New user added
+2022-02-08 09:41:00,755 | INFO | New cart added
+2022-02-08 09:41:00,757 | INFO | New product added
+2022-02-08 09:41:00,964 | INFO | New user added
+2022-02-08 09:41:00,966 | INFO | New cart added
+2022-02-08 09:41:00,967 | INFO | New product added
+2022-02-08 09:41:01,181 | INFO | New user added
+2022-02-08 09:41:01,184 | INFO | New cart added
+2022-02-08 09:41:01,185 | INFO | New product added
+2022-02-08 09:41:01,396 | INFO | New user added
+2022-02-08 09:41:01,398 | INFO | New cart added
+2022-02-08 09:41:01,399 | INFO | New product added
+2022-02-08 09:41:01,611 | INFO | New user added
+2022-02-08 09:41:01,613 | INFO | New cart added
+2022-02-08 09:41:01,614 | INFO | New product added
+2022-02-08 09:41:01,825 | INFO | New user added
+2022-02-08 09:41:01,826 | INFO | New cart added
+2022-02-08 09:41:01,828 | INFO | New product added
+2022-02-08 09:41:02,035 | INFO | New user added
+2022-02-08 09:41:02,038 | INFO | New cart added
+2022-02-08 09:41:02,039 | INFO | New product added
+2022-02-08 09:41:02,250 | INFO | New user added
+2022-02-08 09:41:02,252 | INFO | New cart added
+2022-02-08 09:41:02,253 | INFO | New product added
+2022-02-08 09:41:02,463 | INFO | New user added
+2022-02-08 09:41:02,465 | INFO | New cart added
+2022-02-08 09:41:02,466 | INFO | New product added
+2022-02-08 09:41:02,677 | INFO | New user added
+2022-02-08 09:41:02,679 | INFO | New cart added
+2022-02-08 09:41:02,681 | INFO | New product added
+2022-02-08 09:41:02,888 | INFO | New user added
+2022-02-08 09:41:02,890 | INFO | New cart added
+2022-02-08 09:41:02,891 | INFO | New product added
+2022-02-08 09:41:03,098 | INFO | New user added
+2022-02-08 09:41:03,100 | INFO | New cart added
+2022-02-08 09:41:03,101 | INFO | New product added
+2022-02-08 09:41:03,308 | INFO | New user added
+2022-02-08 09:41:03,310 | INFO | New cart added
+2022-02-08 09:41:03,312 | INFO | New product added
+2022-02-08 09:41:03,518 | INFO | New user added
+2022-02-08 09:41:03,520 | INFO | New cart added
+2022-02-08 09:41:03,522 | INFO | New product added
+2022-02-08 09:41:03,732 | INFO | New user added
+2022-02-08 09:41:03,734 | INFO | New cart added
+2022-02-08 09:41:03,736 | INFO | New product added
+2022-02-08 09:41:03,945 | INFO | New user added
+2022-02-08 09:41:03,947 | INFO | New cart added
+2022-02-08 09:41:03,948 | INFO | New product added
+2022-02-08 09:41:04,158 | INFO | New user added
+2022-02-08 09:41:04,160 | INFO | New cart added
+2022-02-08 09:41:04,161 | INFO | New product added
+2022-02-08 09:41:04,370 | INFO | New user added
+2022-02-08 09:41:04,372 | INFO | New cart added
+2022-02-08 09:41:04,374 | INFO | New product added
+2022-02-08 09:41:04,582 | INFO | New user added
+2022-02-08 09:41:04,583 | INFO | New cart added
+2022-02-08 09:41:04,585 | INFO | New product added
+2022-02-08 09:41:04,793 | INFO | New user added
+2022-02-08 09:41:04,795 | INFO | New cart added
+2022-02-08 09:41:04,796 | INFO | New product added
+2022-02-08 09:41:05,009 | INFO | New user added
+2022-02-08 09:41:05,011 | INFO | New cart added
+2022-02-08 09:41:05,012 | INFO | New product added
+2022-02-08 09:41:05,218 | INFO | New user added
+2022-02-08 09:41:05,220 | INFO | New cart added
+2022-02-08 09:41:05,222 | INFO | New product added
+2022-02-08 09:41:05,431 | INFO | New user added
+2022-02-08 09:41:05,441 | INFO | New cart added
+2022-02-08 09:41:05,443 | INFO | New product added
+2022-02-08 09:41:05,650 | INFO | New user added
+2022-02-08 09:41:05,652 | INFO | New cart added
+2022-02-08 09:41:05,653 | INFO | New product added
+2022-02-08 09:41:05,861 | INFO | New user added
+2022-02-08 09:41:05,863 | INFO | New cart added
+2022-02-08 09:41:05,865 | INFO | New product added
+2022-02-08 09:41:06,071 | INFO | New user added
+2022-02-08 09:41:06,073 | INFO | New cart added
+2022-02-08 09:41:06,075 | INFO | New product added
+2022-02-08 09:41:06,281 | INFO | New user added
+2022-02-08 09:41:06,283 | INFO | New cart added
+2022-02-08 09:41:06,284 | INFO | New product added
+2022-02-08 09:41:06,497 | INFO | New user added
+2022-02-08 09:41:06,498 | INFO | New cart added
+2022-02-08 09:41:06,500 | INFO | New product added
+2022-02-08 09:41:06,707 | INFO | New user added
+2022-02-08 09:41:06,708 | INFO | New cart added
+2022-02-08 09:41:06,709 | INFO | New product added
+2022-02-08 09:41:06,919 | INFO | New user added
+2022-02-08 09:41:06,921 | INFO | New cart added
+2022-02-08 09:41:06,922 | INFO | New product added
+2022-02-08 09:41:07,132 | INFO | New user added
+2022-02-08 09:41:07,134 | INFO | New cart added
+2022-02-08 09:41:07,135 | INFO | New product added
+2022-02-08 09:41:07,346 | INFO | New user added
+2022-02-08 09:41:07,348 | INFO | New cart added
+2022-02-08 09:41:07,349 | INFO | New product added
+2022-02-08 09:41:07,562 | INFO | New user added
+2022-02-08 09:41:07,564 | INFO | New cart added
+2022-02-08 09:41:07,565 | INFO | New product added
+2022-02-08 09:41:07,776 | INFO | New user added
+2022-02-08 09:41:07,778 | INFO | New cart added
+2022-02-08 09:41:07,779 | INFO | New product added
+2022-02-08 09:41:07,986 | INFO | New user added
+2022-02-08 09:41:07,988 | INFO | New cart added
+2022-02-08 09:41:07,990 | INFO | New product added
+2022-02-08 09:41:08,199 | INFO | New user added
+2022-02-08 09:41:08,201 | INFO | New cart added
+2022-02-08 09:41:08,203 | INFO | New product added
+2022-02-08 09:41:08,412 | INFO | New user added
+2022-02-08 09:41:08,414 | INFO | New cart added
+2022-02-08 09:41:08,415 | INFO | New product added
+2022-02-08 09:41:08,622 | INFO | New user added
+2022-02-08 09:41:08,624 | INFO | New cart added
+2022-02-08 09:41:08,625 | INFO | New product added
+2022-02-08 09:41:08,840 | INFO | New user added
+2022-02-08 09:41:08,842 | INFO | New cart added
+2022-02-08 09:41:08,843 | INFO | New product added
+2022-02-08 09:41:09,051 | INFO | New user added
+2022-02-08 09:41:09,053 | INFO | New cart added
+2022-02-08 09:41:09,054 | INFO | New product added
+2022-02-08 09:41:09,264 | INFO | New user added
+2022-02-08 09:41:09,266 | INFO | New cart added
+2022-02-08 09:41:09,267 | INFO | New product added
+2022-02-08 09:41:09,513 | INFO | New user added
+2022-02-08 09:41:09,515 | INFO | New cart added
+2022-02-08 09:41:09,516 | INFO | New product added
+2022-02-08 09:41:09,724 | INFO | New user added
+2022-02-08 09:41:09,726 | INFO | New cart added
+2022-02-08 09:41:09,727 | INFO | New product added
+2022-02-08 09:41:09,940 | INFO | New user added
+2022-02-08 09:41:09,942 | INFO | New cart added
+2022-02-08 09:41:09,944 | INFO | New product added
+2022-02-08 09:41:10,152 | INFO | New user added
+2022-02-08 09:41:10,154 | INFO | New cart added
+2022-02-08 09:41:10,156 | INFO | New product added
+2022-02-08 09:41:10,363 | INFO | New user added
+2022-02-08 09:41:10,366 | INFO | New cart added
+2022-02-08 09:41:10,368 | INFO | New product added
+2022-02-08 09:41:10,578 | INFO | New user added
+2022-02-08 09:41:10,580 | INFO | New cart added
+2022-02-08 09:41:10,581 | INFO | New product added
+2022-02-08 09:41:10,787 | INFO | New user added
+2022-02-08 09:41:10,789 | INFO | New cart added
+2022-02-08 09:41:10,791 | INFO | New product added
+2022-02-08 09:41:11,001 | INFO | New user added
+2022-02-08 09:41:11,003 | INFO | New cart added
+2022-02-08 09:41:11,005 | INFO | New product added
+2022-02-08 09:41:11,214 | INFO | New user added
+2022-02-08 09:41:11,216 | INFO | New cart added
+2022-02-08 09:41:11,217 | INFO | New product added
+2022-02-08 09:41:11,424 | INFO | New user added
+2022-02-08 09:41:11,426 | INFO | New cart added
+2022-02-08 09:41:11,427 | INFO | New product added
+2022-02-08 09:41:11,635 | INFO | New user added
+2022-02-08 09:41:11,637 | INFO | New cart added
+2022-02-08 09:41:11,638 | INFO | New product added
+2022-02-08 09:41:11,847 | INFO | New user added
+2022-02-08 09:41:11,848 | INFO | New cart added
+2022-02-08 09:41:11,849 | INFO | New product added
+2022-02-08 09:41:12,056 | INFO | New user added
+2022-02-08 09:41:12,058 | INFO | New cart added
+2022-02-08 09:41:12,059 | INFO | New product added
+2022-02-08 09:41:12,265 | INFO | New user added
+2022-02-08 09:41:12,267 | INFO | New cart added
+2022-02-08 09:41:12,268 | INFO | New product added
+2022-02-08 09:41:12,476 | INFO | New user added
+2022-02-08 09:41:12,478 | INFO | New cart added
+2022-02-08 09:41:12,479 | INFO | New product added
+2022-02-08 09:41:12,687 | INFO | New user added
+2022-02-08 09:41:12,688 | INFO | New cart added
+2022-02-08 09:41:12,690 | INFO | New product added
+2022-02-08 09:41:12,898 | INFO | New user added
+2022-02-08 09:41:12,900 | INFO | New cart added
+2022-02-08 09:41:12,902 | INFO | New product added
+2022-02-08 09:41:13,110 | INFO | New user added
+2022-02-08 09:41:13,111 | INFO | New cart added
+2022-02-08 09:41:13,113 | INFO | New product added
+2022-02-08 09:41:13,323 | INFO | New user added
+2022-02-08 09:41:13,325 | INFO | New cart added
+2022-02-08 09:41:13,327 | INFO | New product added
+2022-02-08 09:41:13,534 | INFO | New user added
+2022-02-08 09:41:13,536 | INFO | New cart added
+2022-02-08 09:41:13,538 | INFO | New product added
+2022-02-08 09:41:13,744 | INFO | New user added
+2022-02-08 09:41:13,746 | INFO | New cart added
+2022-02-08 09:41:13,747 | INFO | New product added
+2022-02-08 09:41:13,956 | INFO | New user added
+2022-02-08 09:41:13,957 | INFO | New cart added
+2022-02-08 09:41:13,958 | INFO | New product added
+2022-02-08 09:41:14,165 | INFO | New user added
+2022-02-08 09:41:14,167 | INFO | New cart added
+2022-02-08 09:41:14,168 | INFO | New product added
+2022-02-08 09:41:14,380 | INFO | New user added
+2022-02-08 09:41:14,381 | INFO | New cart added
+2022-02-08 09:41:14,383 | INFO | New product added
+2022-02-08 09:41:14,595 | INFO | New user added
+2022-02-08 09:41:14,597 | INFO | New cart added
+2022-02-08 09:41:14,599 | INFO | New product added
+2022-02-08 09:41:14,810 | INFO | New user added
+2022-02-08 09:41:14,811 | INFO | New cart added
+2022-02-08 09:41:14,813 | INFO | New product added
+2022-02-08 09:41:15,019 | INFO | New user added
+2022-02-08 09:41:15,021 | INFO | New cart added
+2022-02-08 09:41:15,023 | INFO | New product added
+2022-02-08 09:41:15,234 | INFO | New user added
+2022-02-08 09:41:15,236 | INFO | New cart added
+2022-02-08 09:41:15,238 | INFO | New product added
+2022-02-08 09:41:15,450 | INFO | New user added
+2022-02-08 09:41:15,451 | INFO | New cart added
+2022-02-08 09:41:15,452 | INFO | New product added
+2022-02-08 09:41:15,662 | INFO | New user added
+2022-02-08 09:41:15,663 | INFO | New cart added
+2022-02-08 09:41:15,665 | INFO | New product added
+2022-02-08 09:41:15,874 | INFO | New user added
+2022-02-08 09:41:15,876 | INFO | New cart added
+2022-02-08 09:41:15,877 | INFO | New product added
+2022-02-08 09:41:16,086 | INFO | New user added
+2022-02-08 09:41:16,088 | INFO | New cart added
+2022-02-08 09:41:16,089 | INFO | New product added
+2022-02-08 09:41:16,297 | INFO | New user added
+2022-02-08 09:41:16,299 | INFO | New cart added
+2022-02-08 09:41:16,300 | INFO | New product added
+2022-02-08 09:41:16,512 | INFO | New user added
+2022-02-08 09:41:16,514 | INFO | New cart added
+2022-02-08 09:41:16,516 | INFO | New product added
+2022-02-08 09:41:16,722 | INFO | New user added
+2022-02-08 09:41:16,724 | INFO | New cart added
+2022-02-08 09:41:16,726 | INFO | New product added
+2022-02-08 09:41:16,932 | INFO | New user added
+2022-02-08 09:41:16,935 | INFO | New cart added
+2022-02-08 09:41:16,937 | INFO | New product added
+2022-02-08 09:41:17,146 | INFO | New user added
+2022-02-08 09:41:17,147 | INFO | New cart added
+2022-02-08 09:41:17,149 | INFO | New product added
+2022-02-08 09:41:17,359 | INFO | New user added
+2022-02-08 09:41:17,361 | INFO | New cart added
+2022-02-08 09:41:17,362 | INFO | New product added
+2022-02-08 09:41:17,569 | INFO | New user added
+2022-02-08 09:41:17,572 | INFO | New cart added
+2022-02-08 09:41:17,574 | INFO | New product added
+2022-02-08 09:41:17,783 | INFO | New user added
+2022-02-08 09:41:17,785 | INFO | New cart added
+2022-02-08 09:41:17,786 | INFO | New product added
+2022-02-08 09:41:17,995 | INFO | New user added
+2022-02-08 09:41:17,997 | INFO | New cart added
+2022-02-08 09:41:17,998 | INFO | New product added
+2022-02-08 09:41:18,205 | INFO | New user added
+2022-02-08 09:41:18,207 | INFO | New cart added
+2022-02-08 09:41:18,208 | INFO | New product added
+2022-02-08 09:41:18,416 | INFO | New user added
+2022-02-08 09:41:18,419 | INFO | New cart added
+2022-02-08 09:41:18,420 | INFO | New product added
+2022-02-08 09:41:18,627 | INFO | New user added
+2022-02-08 09:41:18,630 | INFO | New cart added
+2022-02-08 09:41:18,631 | INFO | New product added
+2022-02-08 09:41:18,838 | INFO | New user added
+2022-02-08 09:41:18,840 | INFO | New cart added
+2022-02-08 09:41:18,841 | INFO | New product added
+2022-02-08 09:42:16,942 | INFO | Logger start.
+2022-02-08 09:42:16,989 | ERROR | [Errno 48] Address already in use
+2022-02-08 09:42:54,021 | INFO | Logger start.
+2022-02-08 09:42:54,084 | ERROR | [Errno 48] Address already in use
+2022-02-08 09:44:11,492 | INFO | Logger start.
+2022-02-08 09:44:11,541 | ERROR | [Errno 48] Address already in use
+2022-02-08 09:45:11,887 | INFO | Logger start.
+2022-02-08 09:45:11,938 | ERROR | [Errno 48] Address already in use
+2022-02-08 09:47:26,838 | INFO | Logger start.
+2022-02-08 09:50:06,225 | INFO | Logger start.
+2022-02-08 09:50:36,111 | INFO | Logger start.
+2022-02-08 09:50:36,157 | ERROR | [Errno 48] Address already in use
+2022-02-08 09:56:45,692 | INFO | Logger start.
+2022-02-08 09:56:46,360 | INFO | Logger start.
+2022-02-08 09:57:14,586 | INFO | user hernandezryan@example.com has login.
+2022-02-08 13:33:02,665 | INFO | Logger start.
+2022-02-08 13:33:02,716 | ERROR | [Errno 48] Address already in use
+2022-02-08 13:34:42,205 | INFO | Logger start.
+2022-02-08 13:34:42,259 | ERROR | [Errno 48] Address already in use
+2022-02-08 13:35:08,530 | INFO | Logger start.
+2022-02-08 13:35:08,956 | INFO | Logger start.
+2022-02-08 13:35:55,327 | INFO | app start
+2022-02-08 13:35:55,399 | INFO | app start
+2022-02-08 13:36:32,975 | INFO | Logger start.
+2022-02-08 13:36:33,400 | INFO | Logger start.
+2022-02-08 13:37:23,659 | INFO | app start
+2022-02-08 13:37:23,729 | INFO | app start
+2022-02-08 13:37:28,349 | INFO | Logger start.
+2022-02-08 13:37:28,784 | INFO | Logger start.
+2022-02-08 13:37:36,985 | INFO | user hernandezryan@example.com has login.
+2022-02-08 13:45:24,979 | INFO | app start
+2022-02-08 13:45:25,053 | INFO | app start
